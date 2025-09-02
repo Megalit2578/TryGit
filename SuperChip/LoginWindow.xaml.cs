@@ -20,7 +20,7 @@ namespace SuperChip
     /// </summary>
     public partial class LoginWindow : Window
     {
-        //chip chip
+        //chip chip qua chip ko tot
         private readonly SystemUserService systemUserService;
         public LoginWindow()
         {
