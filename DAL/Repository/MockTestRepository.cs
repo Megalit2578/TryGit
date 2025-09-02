@@ -16,7 +16,7 @@ namespace DAL.Repository
         {
             _context = new Su25jlptmockTestDbContext();
         }
-
+        //dadasd
         public List<MockTest> GetAllTest()
         {
             return _context.MockTests.Include(mt => mt.Candidate).ToList();
