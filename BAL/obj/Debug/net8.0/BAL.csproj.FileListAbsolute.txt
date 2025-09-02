@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BAL\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\Admin\Desktop\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\Admin\Desktop\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\Admin\Desktop\BAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Admin\Desktop\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\Admin\Desktop\BAL\obj\Debug\net8.0\ref\BAL.dll
