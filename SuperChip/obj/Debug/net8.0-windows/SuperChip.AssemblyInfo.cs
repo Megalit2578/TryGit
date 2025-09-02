@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperChip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb20361640b45295eb7ae3688170df23ddb61b2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d35c28cc38d240ba47b49ffaa17053eacb679c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperChip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperChip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
